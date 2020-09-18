@@ -1,0 +1,9 @@
+button {
+   background-color: blanchedalmond;
+   border: 0;
+   width: 100px;
+   height: 70px
+}
+button:hover {
+   background-color: burlywood;
+}

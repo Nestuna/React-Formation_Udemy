@@ -37,7 +37,7 @@ class App extends Component {
   // METHODES -------------
   handleClick = nb => {
     const famille = {...this.state.famille}
-    famille.membre1.age += nb
+    famille.membre3.age += nb
     this.setState(
       {
         famille
