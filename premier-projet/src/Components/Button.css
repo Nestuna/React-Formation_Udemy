@@ -1,8 +1,8 @@
 button {
    background-color: blanchedalmond;
    border: 0;
-   width: 100px;
-   height: 70px
+   padding: 10px;
+   margin: 10px
 }
 button:hover {
    background-color: burlywood;
