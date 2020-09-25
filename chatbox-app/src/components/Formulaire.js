@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export default class Formulaire extends Component {
   // STATE -------------------------
   state = { 
-    message: undefined,
+    message: '',
     length: this.props.length
   }
 
